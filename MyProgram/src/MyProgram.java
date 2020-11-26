@@ -1,6 +1,7 @@
 
 public class MyProgram {
 	public static void main(String[] args) {
+		System.out.print("Hello ");
 		System.out.println("Hello");
 		int i = 0;
 do {
